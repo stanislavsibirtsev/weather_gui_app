@@ -1,0 +1,339 @@
+{
+  "RU": {
+    "name": "Россия",
+    "cities": [
+      "Москва", "Санкт-Петербург", "Новосибирск", "Екатеринбург", "Казань",
+      "Нижний Новгород", "Челябинск", "Самара", "Омск", "Ростов-на-Дону",
+      "Уфа", "Красноярск", "Пермь", "Воронеж", "Волгоград",
+      "Саратов", "Тюмень", "Тольятти", "Ижевск", "Барнаул",
+      "Ульяновск", "Владивосток", "Ярославль", "Иркутск", "Махачкала",
+      "Хабаровск", "Оренбург", "Новокузнецк", "Рязань", "Пенза",
+      "Севастополь", "Калининград", "Чебоксары", "Смоленск", "Курган",
+      "Архангельск", "Владимир", "Вологда", "Брянск", "Орёл",
+      "Липецк", "Кострома", "Тамбов", "Сыктывкар", "Петрозаводск"
+    ]
+  },
+  "KZ": {
+    "name": "Казахстан",
+    "cities": [
+      "Алматы", "Нур-Султан", "Шымкент", "Караганда", "Актюбинск",
+      "Тараз", "Павлодар", "Усть-Каменогорск", "Семей", "Костанай",
+      "Актобе", "Кызылорда", "Уральск", "Петропавловск", "Туркестан",
+      "Балхаш", "Экибастуз", "Рудный", "Темиртау", "Жезказган",
+      "Кокшетау", "Сатпаев", "Актау", "Атырау", "Талдыкорган",
+      "Жанаозен", "Кентау", "Риддер", "Зайсан", "Шу"
+    ]
+  },
+  "US": {
+    "name": "США",
+    "cities": [
+      "New York", "Los Angeles", "Chicago", "Houston", "Phoenix",
+      "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose",
+      "Austin", "Jacksonville", "Fort Worth", "Columbus", "Charlotte"
+    ]
+  },
+  "DE": {
+    "name": "Германия",
+    "cities": [
+      "Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt",
+      "Stuttgart", "Düsseldorf", "Leipzig", "Dortmund", "Essen",
+      "Bremen", "Dresden", "Hanover", "Nuremberg"
+    ]
+  },
+  "FR": {
+    "name": "Франция",
+    "cities": [
+      "Paris", "Marseille", "Lyon", "Toulouse", "Nice",
+      "Nantes", "Montpellier", "Strasbourg", "Bordeaux", "Lille",
+      "Rennes", "Reims", "Le Havre"
+    ]
+  },
+  "JP": {
+    "name": "Япония",
+    "cities": [
+      "Tokyo", "Yokohama", "Osaka", "Nagoya", "Sapporo",
+      "Kobe", "Kyoto", "Fukuoka", "Kawasaki", "Saitama",
+      "Hiroshima", "Sendai"
+    ]
+  },
+  "CN": {
+    "name": "Китай",
+    "cities": [
+      "Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Tianjin",
+      "Chongqing", "Hong Kong", "Wuhan", "Chengdu", "Dongguan",
+      "Nanjing", "Hangzhou"
+    ]
+  },
+  "GB": {
+    "name": "Великобритания",
+    "cities": [
+      "London", "Birmingham", "Manchester", "Liverpool", "Glasgow",
+      "Leeds", "Sheffield", "Bristol", "Edinburgh", "Leicester",
+      "Coventry", "Bradford"
+    ]
+  },
+  "IT": {
+    "name": "Италия",
+    "cities": [
+      "Rome", "Milan", "Naples", "Turin", "Palermo",
+      "Genoa", "Bologna", "Florence", "Bari", "Catania",
+      "Venice", "Verona"
+    ]
+  },
+  "ES": {
+    "name": "Испания",
+    "cities": [
+      "Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza",
+      "Malaga", "Murcia", "Palma", "Las Palmas", "Bilbao",
+      "Alicante", "Cordoba"
+    ]
+  },
+  "BR": {
+    "name": "Бразилия",
+    "cities": [
+      "São Paulo", "Rio de Janeiro", "Belo Horizonte", "Brasília",
+      "Salvador", "Curitiba", "Recife", "Porto Alegre", "Fortaleza",
+      "Manaus", "Goiânia"
+    ]
+  },
+  "IN": {
+    "name": "Индия",
+    "cities": [
+      "Delhi", "Mumbai", "Bangalore", "Hyderabad", "Ahmedabad",
+      "Chennai", "Kolkata", "Surat", "Pune", "Jaipur",
+      "Lucknow", "Kanpur"
+    ]
+  },
+  "CA": {
+    "name": "Канада",
+    "cities": [
+      "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton",
+      "Ottawa", "Quebec City", "Winnipeg", "Hamilton", "Kitchener",
+      "Victoria", "Halifax"
+    ]
+  },
+  "AU": {
+    "name": "Австралия",
+    "cities": [
+      "Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide",
+      "Gold Coast", "Newcastle", "Canberra", "Sunshine Coast",
+      "Wollongong", "Geelong"
+    ]
+  },
+  "ZA": {
+    "name": "ЮАР",
+    "cities": [
+      "Johannesburg", "Cape Town", "Durban", "Pretoria", "Port Elizabeth",
+      "Pietermaritzburg", "Bloemfontein", "East London", "Benoni",
+      "Vereeniging"
+    ]
+  },
+  "MX": {
+    "name": "Мексика",
+    "cities": [
+      "Mexico City", "Guadalajara", "Monterrey", "Puebla",
+      "Tijuana", "Ciudad Juárez", "Leon", "Zapopan", "Mérida",
+      "Aguascalientes", "Querétaro"
+    ]
+  },
+  "AR": {
+    "name": "Аргентина",
+    "cities": [
+      "Buenos Aires", "Cordoba", "Rosario", "Mendoza", "Tucuman",
+      "La Plata", "Mar del Plata", "Salta", "Santa Fe",
+      "Corrientes", "Parana"
+    ]
+  },
+  "KR": {
+    "name": "Южная Корея",
+    "cities": [
+      "Seoul", "Busan", "Incheon", "Daegu", "Daejeon",
+      "Gwangju", "Suwon", "Ulsan", "Changwon", "Seongnam",
+      "Goyang", "Yongin"
+    ]
+  },
+  "TR": {
+    "name": "Турция",
+    "cities": [
+      "Istanbul", "Ankara", "Izmir", "Bursa", "Antalya",
+      "Adana", "Gaziantep", "Konya", "Mersin", "Diyarbakir",
+      "Eskisehir", "Kayseri"
+    ]
+  },
+  "SE": {
+    "name": "Швеция",
+    "cities": [
+      "Stockholm", "Gothenburg", "Malmö", "Uppsala", "Linköping",
+      "Västerås", "Örebro", "Norrköping", "Helsingborg",
+      "Jönköping", "Umeå"
+    ]
+  },
+  "NL": {
+    "name": "Нидерланды",
+    "cities": [
+      "Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven",
+      "Tilburg", "Groningen", "Almere", "Breda", "Nijmegen",
+      "Haarlem", "Arnhem"
+    ]
+  },
+  "CH": {
+    "name": "Швейцария",
+    "cities": [
+      "Zurich", "Geneva", "Basel", "Lausanne", "Bern",
+      "Winterthur", "Lucerne", "St. Gallen", "Lugano",
+      "Biel/Bienne", "Thun"
+    ]
+  },
+  "NO": {
+    "name": "Норвегия",
+    "cities": [
+      "Oslo", "Bergen", "Trondheim", "Stavanger", "Drammen",
+      "Fredrikstad", "Kristiansand", "Sandnes", "Tromsø",
+      "Sarpsborg", "Skien"
+    ]
+  },
+  "PL": {
+    "name": "Польша",
+    "cities": [
+      "Warsaw", "Krakow", "Łódź", "Wrocław", "Poznań",
+      "Gdansk", "Szczecin", "Bydgoszcz", "Lublin", "Katowice",
+      "Białystok", "Gdynia"
+    ]
+  },
+  "BE": {
+  "name": "Бельгия",
+  "cities": [
+    "Brussels", "Antwerp", "Ghent", "Charleroi", "Liège",
+    "Bruges", "Namur", "Leuven", "Mons", "Mechelen",
+    "Kortrijk", "Sint-Niklaas"
+  ]
+},
+"AT": {
+  "name": "Австрия",
+  "cities": [
+    "Vienna", "Graz", "Linz", "Salzburg", "Innsbruck",
+    "Klagenfurt", "Villach", "Wels", "St. Pölten", "Dornbirn",
+    "Wiener Neustadt", "Sankt Pölten"
+  ]
+},
+"DK": {
+  "name": "Дания",
+  "cities": [
+    "Copenhagen", "Aarhus", "Odense", "Aalborg", "Esbjerg",
+    "Randers", "Kolding", "Horsens", "Viborg", "Sønderborg",
+    "Herning", "Naestved"
+  ]
+},
+"FI": {
+  "name": "Финляндия",
+  "cities": [
+    "Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu",
+    "Turku", "Jyväskylä", "Lahti", "Kuopio", "Kouvola",
+    "Pori", "Seinäjoki"
+  ]
+},
+"IE": {
+  "name": "Ирландия",
+  "cities": [
+    "Dublin", "Cork", "Limerick", "Galway", "Waterford",
+    "Drogheda", "Swords", "Bray", "Navan", "Kildare",
+    "Athlone", "Tralee"
+  ]
+},
+"PT": {
+  "name": "Португалия",
+  "cities": [
+    "Lisbon", "Porto", "Amadora", "Braga", "Funchal",
+    "Coimbra", "Setúbal", "Aveiro", "Faro", "Queluz",
+    "Vila Nova de Gaia", "Guimarães"
+  ]
+},
+"GR": {
+  "name": "Греция",
+  "cities": [
+    "Athens", "Thessaloniki", "Patras", "Heraklion", "Larissa",
+    "Volos", "Rhodes", "Ioannina", "Chania", "Kalamata",
+    "Trikala", "Mytilene"
+  ]
+},
+"CZ": {
+  "name": "Чехия",
+  "cities": [
+    "Prague", "Brno", "Ostrava", "Plzeň", "Liberec",
+    "Olomouc", "Ústí nad Labem", "Hradec Králové", "České Budějovice",
+    "Pardubice", "Zlin", "Havířov"
+  ]
+},
+"HU": {
+  "name": "Венгрия",
+  "cities": [
+    "Budapest", "Debrecen", "Szeged", "Miskolc", "Pécs",
+    "Győr", "Nyíregyháza", "Kecskemét", "Székesfehérvár",
+    "Szombathely", "Szolnok", "Tatabánya"
+  ]
+},
+"RO": {
+  "name": "Румыния",
+  "cities": [
+    "Bucharest", "Cluj-Napoca", "Timișoara", "Iași", "Craiova",
+    "Brașov", "Ploiești", "Galați", "Oradea", "Braila",
+    "Sibiu", "Pitești"
+  ]
+},
+"BG": {
+  "name": "Болгария",
+  "cities": [
+    "Sofia", "Plovdiv", "Varna", "Burgas", "Ruse",
+    "Stara Zagora", "Pleven", "Sliven", "Dobrich", "Shumen",
+    "Pazardzhik", "Blagoevgrad"
+  ]
+},
+"HR": {
+  "name": "Хорватия",
+  "cities": [
+    "Zagreb", "Split", "Rijeka", "Osijek", "Zadar",
+    "Pula", "Slavonski Brod", "Karlovac", "Varaždin",
+    "Šibenik", "Dubrovnik", "Velika Gorica"
+  ]
+},
+"SK": {
+  "name": "Словакия",
+  "cities": [
+    "Bratislava", "Košice", "Prešov", "Žilina", "Nitra",
+    "Trnava", "Martin", "Trenčín", "Poprad", "Považská Bystrica",
+    "Zvolen", "Nové Zámky"
+  ]
+},
+"SI": {
+  "name": "Словения",
+  "cities": [
+    "Ljubljana", "Maribor", "Celje", "Kranj", "Velenje",
+    "Novo Mesto", "Ptuj", "Trbovlje", "Kamnik", "Domžale",
+    "Krško", "Jesenice"
+  ]
+},
+"LV": {
+  "name": "Латвия",
+  "cities": [
+    "Riga", "Daugavpils", "Liepaja", "Jelgava", "Jurmala",
+    "Ventspils", "Rezekne", "Valmiera", "Olainė", "Tukums",
+    "Sigulda", "Balvi"
+  ]
+},
+  "LT": {
+    "name": "Литва",
+    "cities": [
+      "Vilnius", "Kaunas", "Klaipėda", "Šiauliai", "Panevėžys",
+      "Alytus", "Marijampolė", "Mažeikiai", "Utena", "Jonava",
+      "Telšiai", "Kėdainiai"
+    ]
+  },
+  "EE": {
+    "name": "Эстония",
+    "cities": [
+      "Tallinn", "Tartu", "Narva", "Pärnu", "Kohtla-Järve",
+      "Viljandi", "Maardu", "Sillamäe", "Rakvere", "Kuressaare",
+      "Valga", "Paide"
+    ]
+  }
+}

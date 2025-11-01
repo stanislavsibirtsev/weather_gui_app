@@ -1,8 +1,10 @@
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel
 from PyQt6.QtGui import QPixmap
+from PyQt6.QtCore import Qt  # Обязательно!
 import plotly.graph_objects as go
 import io
 from PIL import Image
+
 
 
 class PlotWidget(QWidget):
